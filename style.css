@@ -90,16 +90,16 @@ nav {
         background-image: url(./image/banner\ 2.jpg);
     }
     25%{
-        background-image: url(./image/Home.jpeg);
+        background-image: url(./image/niko.jpeg);
     }
     50%{
-        background-image: url(./image/images.webp);
+        background-image: url(./image/niko2.jpeg);
     }
     75%{
-        background-image: url(./image/images\ \(2\).webp);
+        background-image: url(./image/niko3.jpeg);
     }
     100%{
-        background-image: url(./image/images.webp);
+        background-image: url(./image/niko4.jpeg);
     }
 }
 
